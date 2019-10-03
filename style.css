@@ -1,1 +1,4 @@
-p { background-color: red; }
+li { color: pink; }
+* { color: brown; }
+#otsikko { color: Blue; }
+#jatkuu { color: red }
